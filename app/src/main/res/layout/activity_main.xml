@@ -41,6 +41,7 @@
         android:layout_marginLeft="24dp"
         android:layout_marginBottom="16dp"
         android:text="How Many?"
+        android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/seekBar"
         app:layout_constraintStart_toStartOf="parent" />
 
